@@ -2,7 +2,7 @@
 
 ## Problem statement
 
-Build a model that will alert the driver before he falls asleep based on the realtime drowsiness detection.
+Build a model that will alert the driver before he falls asleep based on the realtime drowsiness level.
 
 ## Model Description
 
