@@ -10,7 +10,7 @@ Drowsiness detection using LSTM model which takes a sequence of 50 extracted fea
 
 ## Packages Used
 
-* Face Landmark Detection: To detect the face and crop the region of interest i.e. eye region.
+* Mediapipe: Face Landmark Detection package used to detect the face and crop the region of interest i.e. eye region based on the landmarks.
 
 ![Face landmark example](https://raw.githubusercontent.com/patlevin/face-detection-tflite/main/docs/portrait_fl.jpg)
 
