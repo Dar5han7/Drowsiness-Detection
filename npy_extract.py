@@ -91,7 +91,11 @@ def extract(class_type ="alert"):
     savepath = os.path.join(currpath, "data", "sequences", npfile)
 
     save(savepath, array)
-extract("alert")
+
+
+extract("alert") # for alert images
+extract("drowsy") # for drowsy images
+
 
 
 
